@@ -1,0 +1,1 @@
+my solutions for https://github.com/total-typescript/beginners-typescript-tutorial
